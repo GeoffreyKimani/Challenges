@@ -6,7 +6,7 @@ This repo holds simple coding challenges useful for practicing concepts and prep
 
 **Description:** Write a program such that given a roman numeral, convert it to an integer.
 
-**Branch:** roman-to-int 
+**Branch:** [roman-to-int](https://github.com/GeoffreyKimani/Challenges/tree/roman-to-int)
 
 ### 2. Int 2 Roman Challenge
 [Source](https://leetcode.com/problems/integer-to-roman/)
