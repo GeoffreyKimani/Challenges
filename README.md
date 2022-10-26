@@ -6,4 +6,12 @@ This repo holds simple coding challenges useful for practicing concepts and prep
 
 **Description:** Write a program such that given a roman numeral, convert it to an integer.
 
+**Performance Details**
+
+
+_runtime_
+
+_memory_
+
+
 **Commit:** [roman-to-int](https://github.com/GeoffreyKimani/Challenges/tree/roman-to-int)
